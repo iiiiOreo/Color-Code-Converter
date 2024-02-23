@@ -1,9 +1,9 @@
-Color Code Converter with Tkinter
+# Color Code Converter with Tkinter
 
 This Python application, implemented with Tkinter, serves as a versatile Color Code Converter, facilitating seamless transitions between HEX, RGB color codes. The user-friendly interface enhances the user experience, providing both on-screen button interaction and keyboard input support. The application ensures accuracy through robust error handling, delivering informative messages for smooth operation.
 
 
-Key Features:
+## Key Features:
 
 
 Convert between HEX, RGB color codes effortlessly.
@@ -17,7 +17,7 @@ Robust error handling to gracefully manage unexpected situations.
 Easy-to-understand codebase for exploration and contribution.
 
 
-How to Use:
+## How to Use:
 
 
 Ensure you have Python installed on your machine.
